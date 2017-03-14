@@ -1,0 +1,11 @@
+{
+  "name": "speedfarmer",
+  "version": "1.0.0",
+  "description": "Click to plant a seed or harvest a crop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alison Stuart",
+  "license": "ISC"
+}
